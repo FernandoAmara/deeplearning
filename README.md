@@ -1,2 +1,2 @@
 # deeplearning
-Deep Learing Aplications Examples
+Este repositório apresenta vários exemplos de Deep Learning, com técnicas como Redes Neurais Convolucionais, LSTM, Autoencoders, Boltzmann machine entre outros.
